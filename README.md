@@ -5,8 +5,7 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
 
 < html>
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    
     <title>ABROAD ACTIVISM</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
@@ -309,6 +308,7 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
 
 </head>
 <body>
+    
     <header>
         <div class="top-bar">
             WhatsApp: +51 34 4567 4677 | 1 800 345 3457 | hello@flutedu.com
@@ -333,7 +333,10 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
     </section>
     <section class="program-section">
         <h2>Working Holiday <span>Programs</span></h2>
- <p>Working Holidays around the World! In Japan, China, Germany. Try something different!</p>
+        
+        
+  <p> Working Holidays around the World! In Japan, China, Germany. Try something different! </p>
+ 
         <div class="program-container">
 
                    <div class="destination-card" style="background-image: url('https://static.independent.co.uk/2023/12/06/14/iStock-646880230.jpg');">Australia</div>
