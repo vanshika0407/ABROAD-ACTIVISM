@@ -1,13 +1,16 @@
 # ABROAD-ACTIVISM
 ABROAD ACTIVISM is a dynamic  website that combines the thrill of international travel with the impact of social activism. Our platform provides users with opportunities to explore working holidays, volunteer programs, and cultural exchanges across various destinations while participating in meaningful activism .
+
+
+
 < html>
-<html lang="en">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Flutedu Abroad - Providing Inspiration</title>
+    <title>ABROAD ACTIVISM</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
+   
     <style>
         body, html {
             margin: 0;
@@ -303,6 +306,7 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
     }
     
     </style>
+
 </head>
 <body>
     <header>
