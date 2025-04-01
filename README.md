@@ -22,7 +22,7 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
         .top-bar {
             background: #5a6e3a;
             color: white;
-            text-align: center;
+            text-align: left;
             padding: 10px 0;
             font-size: 14px;
         }
