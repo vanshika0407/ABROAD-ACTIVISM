@@ -6,6 +6,8 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
 < html>
 <head>
     
+<meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>ABROAD ACTIVISM</title>
     <link rel="stylesheet" href="styles.css">
     <script defer src="script.js"></script>
@@ -401,6 +403,8 @@ ABROAD ACTIVISM is a dynamic  website that combines the thrill of international 
     </div>
     
 </footer>
+
 </body>
+
 </html>
-</html>
+
